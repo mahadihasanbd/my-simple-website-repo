@@ -2,6 +2,14 @@
     margin: 0;
     padding: 0;
 }
+img {
+    height: 30%;
+    width: 30%;
+    margin: 15px;
+    border: 2px solid violet;
+    border-radius: 5px ;
+    box-shadow:10px 10px 10px 20px rgb(0, 151, 220);
+}
 #main {
     background-color: rgb(225, 97, 23);
     margin: 10px;
@@ -13,6 +21,8 @@
 section {
     display: inline-block;
     background-color: teal;
+    margin: 10px;
+    box-shadow:10px 10px 10px 20px rgb(249, 4, 221);
 }
 #video {
     background-color: aquamarine;
@@ -31,3 +41,4 @@ section {
 .videoply:hover {
     background-color: palevioletred;
 }
+ 

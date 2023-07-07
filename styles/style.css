@@ -10,4 +10,24 @@
 #next {
     background-color: tomato;
 }
+section {
+    display: inline-block;
+    background-color: teal;
+}
+#video {
+    background-color: aquamarine;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid tomato;
+    border-radius: 10px;
+    margin-left: 20px;
+    box-shadow: rgb(225, 97, 23);
+}
+.videoply {
+    background-color: darkorange;
+    padding-top: 5px;
 
+}
+.videoply:hover {
+    background-color: palevioletred;
+}
